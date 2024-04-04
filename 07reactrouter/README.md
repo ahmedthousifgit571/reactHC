@@ -24,8 +24,5 @@ Install dependencies using npm install or yarn install.
 Start the development server with npm run dev or yarn dev.
 Explore the project structure and experiment with React Router configurations in src/App.jsx or other relevant files.
 Refer to the React Router documentation for detailed guidance on routing concepts, API usage, and best practices.
-Additional Resources:
-React Router Documentation
-@vitejs/plugin-react
-@vitejs/plugin-react-swc
-Happy learning! 🚀
+
+
